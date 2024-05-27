@@ -14,7 +14,7 @@ Features:
 
 Live Demo
 Check out the live demo of the application
-https://shopping-cart-two-woad.vercel.app/cart
+https://shopping-cart-two-woad.vercel.app
 
 Home Page
 
